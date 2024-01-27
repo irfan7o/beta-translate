@@ -18,10 +18,21 @@ https://github.com/irfan7o/beta-translate/assets/73951075/bfd9de68-b6c5-4dbe-8c0
 
 1.3 Akses [localhost/phpmyadmin](http://localhost/phpmyadmin) di browser, kemudian <i>create database</i> dengan nama <b>userform</b>.
 
-1.4 Buat 2 tabel dengan nama ```translate``` dan ```usertable``` :
+1.4 Buat 2 tabel dengan nama ```translate``` dan ```usertable``` (Optional):
 
 Kolom Tabel ```translate```:
 
-    id [INT 100]
+    id [INT 100] Auto Increment 
     indonesia [VARCHAR 250]
     sumbawa [VARCHAR 250]
+
+Kolom Tabel ```usertable```:
+
+    id [INT 100] Auto Increment 
+    name [VARCHAR 100]
+    email [VARCHAR 200]
+    password [VARCHAR 250]
+    code [INT 100]
+    status [VARCHAR 100]
+
+1.5 Kamu tidak perlu buat tabel baru. Kamu hanya perlu buat nama <i>database</i> userform kemudian upload database yang sudah di download pada project Beta Admin.
