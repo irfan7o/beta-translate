@@ -64,5 +64,11 @@ Setting file ```php.ini``` dan ```sendmail.ini``` pada folder <b>C:\xampp\php</b
 
 ![Screenshot 2024-01-27 095838](https://github.com/irfan7o/beta-translate/assets/73951075/b13eff6d-5147-4343-91d7-24f24c00c3c8)
 
+2.3 Tahap setting SMTP selesai, maka tampilan akan seperti dibawah ini 👇
+
 ![Screenshot 2024-01-27 212243](https://github.com/irfan7o/beta-translate/assets/73951075/91f8c319-64e8-45d5-ae34-670fefcab8f3)
 
+2.4 Berikutnya silahkan login menggunakan akun yang sudah terdaftar
+
+    Username: admin@gmail.com
+    Password: makan
