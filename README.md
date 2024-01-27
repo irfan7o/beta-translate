@@ -7,7 +7,7 @@ https://github.com/irfan7o/beta-translate/assets/73951075/bfd9de68-b6c5-4dbe-8c0
 
 <h3>Step 1</h3>
 
-1.1 Download project Beta Translate dan Beta Admin
+1.1 Download project [Beta Translate](https://github.com/irfan7o/beta-translate) dan [Beta Admin](https://github.com/irfan7o/beta-admin)
 
 > [!NOTE]
 > Pastikan <i>database</i> sudah terintall, gunakan [phpmyadmin](http://localhost/phpmyadmin/) untuk install database.
@@ -36,7 +36,7 @@ Kolom Tabel ```usertable```:
     code [INT 100]
     status [VARCHAR 100]
 
-1.5 Kamu tidak perlu buat tabel baru. Kamu hanya perlu buat nama <i>database</i> userform kemudian import database yang sudah di download pada project Beta Admin.
+1.5 Kamu tidak perlu buat tabel baru. Kamu hanya perlu buat nama <i>database</i> userform kemudian import database yang sudah di download pada project [Beta Admin](https://github.com/irfan7o/beta-admin).
 
 
 <b>Caranya:</b> Click tabel useform yang sudah dibuat kemudian import database ```userform.sql```
