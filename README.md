@@ -13,3 +13,5 @@ https://github.com/irfan7o/beta-translate/assets/73951075/bfd9de68-b6c5-4dbe-8c0
 > Pastikan <i>database</i> sudah terintall, gunakan [phpmyadmin](http://localhost/phpmyadmin/) untuk install database.
 
 1.2 Download [XAMPP](https://www.apachefriends.org/download.html) untuk akses phpmyadmin
+
+![Screenshot 2024-01-27 150131](https://github.com/irfan7o/beta-translate/assets/73951075/3b6a345c-5b89-46ed-9304-4bd4e2248d10)
