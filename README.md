@@ -25,6 +25,7 @@ Kolom Tabel ```translate```:
     id [INT 100] Auto Increment 
     indonesia [VARCHAR 250]
     sumbawa [VARCHAR 250]
+    keterangan [VARCHAR 250]
 
 Kolom Tabel ```usertable```:
 
@@ -35,4 +36,10 @@ Kolom Tabel ```usertable```:
     code [INT 100]
     status [VARCHAR 100]
 
-1.5 Kamu tidak perlu buat tabel baru. Kamu hanya perlu buat nama <i>database</i> userform kemudian upload database yang sudah di download pada project Beta Admin.
+1.5 Kamu tidak perlu buat tabel baru. Kamu hanya perlu buat nama <i>database</i> userform kemudian import database yang sudah di download pada project Beta Admin.
+
+<b>Caranya:</b> Click tabel useform yang sudah dibuat kemudian import database ```userform.sql```
+
+![Screenshot 2024-01-27 152839](https://github.com/irfan7o/beta-translate/assets/73951075/cdbccdfd-43c7-4596-819f-5f3fea501353)
+
+1.6 Done! Proses installasi Beta Translate selesai. Kamu hanya perlu masukan data kata-kata ke database melalui phpmyadmin.
