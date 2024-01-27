@@ -38,11 +38,6 @@ Kolom Tabel ```usertable```:
 
 1.5 Kamu tidak perlu buat tabel baru. Kamu hanya perlu buat nama <i>database</i> userform kemudian import database yang sudah di download pada project Beta Admin.
 
-<h3>Step 2</h3>
-
-2.1 Sekarang tahap menggunakan Beta Admin
-
-
 
 <b>Caranya:</b> Click tabel useform yang sudah dibuat kemudian import database ```userform.sql```
 
@@ -50,5 +45,9 @@ Kolom Tabel ```usertable```:
 
 1.6 Done! Proses installasi Beta Translate selesai. Kamu hanya perlu masukan data kata-kata ke database melalui phpmyadmin.
 
+<h3>Step 2</h3>
+
+2.1 Sekarang tahap menggunakan Beta Admin
+
 > [!NOTE]
-> Beta Admin adalah dashboard sederhana yang bisa digunakan untuk upload kata-kata ke <i>database<i> tanpa melalui phpmyadmin.
+> Beta Admin adalah dashboard sederhana yang bisa digunakan untuk upload kata-kata ke <i>database</i> tanpa melalui phpmyadmin.
