@@ -54,7 +54,7 @@ Kolom Tabel ```usertable```:
 
 https://github.com/irfan7o/beta-translate/assets/73951075/d52a7a4e-1e7d-4d64-8f04-1d4a0d337600
 
-2.2 Agar tidak terjadi error saat forget password
+2.2 Agar tidak terjadi error saat lupa password
 
 Error: ```Failed to connect to mailserver at "localhost" port 25, verify your "SMTP" and "smtp_port" setting in php.ini```
 
