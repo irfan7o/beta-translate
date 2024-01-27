@@ -50,7 +50,7 @@ Kolom Tabel ```usertable```:
 2.1 Sekarang tahap menggunakan Beta Admin
 
 > [!NOTE]
-> Beta Admin adalah dashboard sederhana yang bisa digunakan untuk upload kata-kata ke <i>database</i> tanpa melalui phpmyadmin.
+> Beta Admin adalah dashboard sederhana yang bisa digunakan untuk upload kata-kata ke <i>database</i> tanpa melalui <i>database</i> langsung.
 
 https://github.com/irfan7o/beta-translate/assets/73951075/d52a7a4e-1e7d-4d64-8f04-1d4a0d337600
 
@@ -70,5 +70,7 @@ Setting file ```php.ini``` dan ```sendmail.ini``` pada folder <b>C:\xampp\php</b
 
 2.4 Berikutnya silahkan login menggunakan akun yang sudah terdaftar
 
-    Username: admin@gmail.com
+    Email: admin@gmail.com
     Password: makan
+
+2.5 Done!
