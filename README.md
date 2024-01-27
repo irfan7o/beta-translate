@@ -58,4 +58,11 @@ https://github.com/irfan7o/beta-translate/assets/73951075/d52a7a4e-1e7d-4d64-8f0
 
 Error: ```Failed to connect to mailserver at "localhost" port 25, verify your "SMTP" and "smtp_port" setting in php.ini```
 
+Setting file ```php.ini``` dan ```sendmail.ini``` pada folder <b>C:\xampp\php</b> & <b>C:\xampp\sendmail</b>
+
+![Screenshot 2024-01-27 095820](https://github.com/irfan7o/beta-translate/assets/73951075/55dd02f9-c32c-4d59-917f-79592c5076ea)
+
+![Screenshot 2024-01-27 095838](https://github.com/irfan7o/beta-translate/assets/73951075/b13eff6d-5147-4343-91d7-24f24c00c3c8)
+
+![Screenshot 2024-01-27 212243](https://github.com/irfan7o/beta-translate/assets/73951075/91f8c319-64e8-45d5-ae34-670fefcab8f3)
 
