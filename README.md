@@ -51,3 +51,7 @@ Kolom Tabel ```usertable```:
 
 > [!NOTE]
 > Beta Admin adalah dashboard sederhana yang bisa digunakan untuk upload kata-kata ke <i>database</i> tanpa melalui phpmyadmin.
+
+https://github.com/irfan7o/beta-translate/assets/73951075/d52a7a4e-1e7d-4d64-8f04-1d4a0d337600
+
+
